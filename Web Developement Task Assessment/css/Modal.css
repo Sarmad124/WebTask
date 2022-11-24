@@ -1,0 +1,49 @@
+
+h1
+{
+    position: absolute;
+    width: 485px;
+    height: 99px;
+   
+    top: 1%;
+    left: 35%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 98px;
+    text-align: center;
+    color: #F3FFE2;
+}
+h2
+{
+    position: absolute;
+    width: 485px;
+    height: 99px;
+   
+    top: 0.7%;
+    left: 75%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 98px;
+    text-align: center;
+    color: #F3FFE2;
+}
+
+.image1{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    width: 1500px;
+    height: 900px;
+    transform: translate(-50%,-50%);
+   
+}
+.image2{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
